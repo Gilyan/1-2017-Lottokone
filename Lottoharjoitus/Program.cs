@@ -8,6 +8,7 @@ Käyttäjältä kysytään, kuinka monta lottoriviä halutaan arpoa.
 Samalle riville ei saa tulla jo arvottuja numeroita.
 
 Minttu Mäkäläinen K8517 @ JAMK
+Viety GitHubiin 11.1.2017
 ************************************** */
 
 using System;
