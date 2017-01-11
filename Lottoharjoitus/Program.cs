@@ -7,7 +7,7 @@ Toiminta: Lottosovellus, jossa arvotaan 7 satunnaista numeroa 40 numerosta (1-40
 Käyttäjältä kysytään, kuinka monta lottoriviä halutaan arpoa.
 Samalle riville ei saa tulla jo arvottuja numeroita.
 
-Minttu Mäkäläinen K8517
+Minttu Mäkäläinen K8517 @ JAMK
 ************************************** */
 
 using System;
