@@ -1,5 +1,5 @@
 ﻿/* **************************************
-Taulukkoharjoitus.cs
+Taulukkoharjoitus
 
 Luotu 9.1.2017
 Muokattu 10.1.2017
